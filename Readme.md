@@ -3,7 +3,7 @@
 ## Lời cảm ơn
 Trước hết, tôi xin chân thành cảm ơn thầy Nguyễn Anh Tuấn, giảng viên môn IoT, đã tận tình hướng dẫn và hỗ trợ tôi trong suốt thời gian 15 tuần của môn học IoT. Những lời góp ý và sự tâm huyết của thầy giúp ích cho tôi rất nhiều để hoàn thành sản phẩm.
 
-## Giới thiệu
+## Đặt vấn đề
 "Smart Garden" là một hệ thống tưới cây thông minh được CẢI TIẾN từ đề tài giữa kỳ với mục tiêu nâng cao hiệu quả và bảo vệ cây trồng. Hệ thống không chỉ tự động tưới cây dựa trên độ ẩm đất mà còn kết hợp điều kiện ánh sáng để tránh tưới vào thời điểm không phù hợp (ví dụ: trời nắng to). Ngoài ra, hệ thống còn bổ sung cảm biến DHT11 để đo nhiệt độ và độ ẩm không khí, đồng thời gửi dữ liệu thời gian thực qua MQTT lên Node-RED Dashboard.
 
 ## Tính năng bổ sung so với đề tài giữa kỳ
@@ -72,7 +72,9 @@ Trước hết, tôi xin chân thành cảm ơn thầy Nguyễn Anh Tuấn, gi�
 ![node_red_dashboard_4](https://github.com/user-attachments/assets/f7510fac-ecdf-4be6-9567-327116fa5db1)
 ![node_red dashboard_2](https://github.com/user-attachments/assets/6b8b12da-a591-4904-af1b-4d606683aaae)
 
-
+## Kết luận
+Dự án Smart Garden là một bước tiến trong việc ứng dụng công nghệ IoT vào đời sống, giúp tối ưu hóa việc chăm sóc cây trồng thông qua hệ thống tự động hóa và giám sát từ xa.
+Dự án này có tiềm năng ứng dụng trong các lĩnh vực như nông nghiệp thông minh, quản lý cảnh quan đô thị, hoặc các hệ thống vườn trồng trong nhà. Thông qua việc phát triển thêm các tính năng và sử dụng công nghệ hiện đại hơn, hệ thống có thể trở thành một giải pháp hoàn chỉnh cho việc quản lý cây trồng bền vững và hiệu quả.
 
 ## Hướng phát triển thêm
 - Lưu trữ dữ liệu nhiệt độ, độ ẩm, và ánh sáng để phân tích xu hướng.
