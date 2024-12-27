@@ -6,7 +6,7 @@ Trước hết, tôi xin chân thành cảm ơn thầy Nguyễn Anh Tuấn, gi�
 ## Giới thiệu
 "Smart Garden" là một hệ thống tưới cây thông minh được CẢI TIẾN từ đề tài giữa kỳ với mục tiêu nâng cao hiệu quả và bảo vệ cây trồng. Hệ thống không chỉ tự động tưới cây dựa trên độ ẩm đất mà còn kết hợp điều kiện ánh sáng để tránh tưới vào thời điểm không phù hợp (ví dụ: trời nắng to). Ngoài ra, hệ thống còn bổ sung cảm biến DHT11 để đo nhiệt độ và độ ẩm không khí, đồng thời gửi dữ liệu thời gian thực qua MQTT lên Node-RED Dashboard.
 
-## Tính năng bổ sung với đề tài giữa kỳ
+## Tính năng bổ sung so với đề tài giữa kỳ
 - Tưới cây tự động khi:
   - Độ ẩm đất dưới 60%.
   - Cường độ ánh sáng thấp (mô phỏng thời điểm sáng sớm, tối muộn hoặc trời râm mát).
