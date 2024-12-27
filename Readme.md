@@ -30,6 +30,9 @@ Trước hết, tôi xin chân thành cảm ơn thầy Nguyễn Anh Tuấn, gi�
 - **Node-RED**: Hiển thị dữ liệu và điều khiển qua giao diện Dashboard.
 - **MQTT**: Giao thức truyền dữ liệu giữa ESP32 và Node-RED.
 
+## Sơ đồ hệ thống
+![SodoKhoi](https://github.com/user-attachments/assets/65fdae04-2ca1-4fa7-9aa1-89f960d4a73e)
+
 ## Quá trình hoạt động
 1. **Đọc dữ liệu cảm biến:**
    - Cảm biến độ ẩm đất đo độ ẩm hiện tại của đất.
@@ -64,7 +67,12 @@ Trước hết, tôi xin chân thành cảm ơn thầy Nguyễn Anh Tuấn, gi�
    - Đảm bảo dữ liệu hiển thị đúng trên Dashboard và hệ thống hoạt động theo điều kiện đã thiết lập.
 
 ## Kết quả
-![node_red_dashboard_4](https://github.com/user-attachments/assets/f37cdb60-61b5-4c2c-b5ea-aaccb49194f6)
+![node_red_dashboard](https://github.com/user-attachments/assets/55bd5dfd-51c7-4dce-97b9-ccf46a054b15)
+![node_red_dashboard_3](https://github.com/user-attachments/assets/8525d8dc-056b-4c51-b2c2-a361e08266b6)
+![node_red_dashboard_4](https://github.com/user-attachments/assets/f7510fac-ecdf-4be6-9567-327116fa5db1)
+![node_red dashboard_2](https://github.com/user-attachments/assets/6b8b12da-a591-4904-af1b-4d606683aaae)
+
+
 
 ## Hướng phát triển thêm
 - Lưu trữ dữ liệu nhiệt độ, độ ẩm, và ánh sáng để phân tích xu hướng.
