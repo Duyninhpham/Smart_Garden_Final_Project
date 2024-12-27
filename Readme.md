@@ -60,7 +60,8 @@ Trước hết, tôi xin chân thành cảm ơn thầy Nguyễn Anh Tuấn, gi�
 
 3. **Cấu hình Node-RED:**
    - Tạo giao diện Dashboard để hiển thị dữ liệu và điều khiển bơm nước.
-![node_red dashboard_config](https://github.com/user-attachments/assets/2da8cff6-f716-4235-bd43-c426dc93cbd6)
+![node_red dashboard_config](https://github.com/user-attachments/assets/f8da582b-a9a2-4c0c-a299-ad2462a00f24)
+
 
 
 4. **Kiểm tra và chạy hệ thống:**
